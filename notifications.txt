@@ -1,0 +1,27 @@
+
+        ----------------------------------------
+        NOTIFICATION: Ticket Status Update
+        ----------------------------------------
+        To: kilian@gmail.com
+        Ticket Name: test
+        Current Status: IN_PROGRESS
+
+        We wanted to inform you that the status of your ticket 
+        'test' has been updated to 'IN_PROGRESS'.
+
+        ----------------------------------------
+        
+        
+        ----------------------------------------
+        NOTIFICATION: Ticket Status Update
+        ----------------------------------------
+        To: test@test.com
+        Ticket Name: test
+        Current Status: IN_PROGRESS
+
+        We wanted to inform you that the status of your ticket 
+        'test' has been updated to 'IN_PROGRESS'.
+
+        ----------------------------------------
+        
+        
